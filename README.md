@@ -1,2 +1,2 @@
 # AutomationCI
-Automation Project using Continues Integration Tools like Jenkins
+Automation Repository using Continues Integration Tools like Jenkins
